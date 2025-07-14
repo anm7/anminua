@@ -1,8 +1,9 @@
 body {
-  background-color: #ece5da;
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(-5deg, #ffd700 47.7%, #0057b7 48%);
   text-align: center;
   font-family: Tahoma, Arial, sans-serif;
-  color: #999;
 }
 h3 {
   font-family: "Russo One";
@@ -14,8 +15,8 @@ h3 span {
   display: block;
   margin: 11px 0 17px 0;
   font-size: 9vh;
-  color: #f1ebe5;
-  text-shadow: 0 13.36px 8.896px #c4b59d,0 -2px 1px #fff;
+  color: #c3b8ad;
+  text-shadow: 0 13.36px 8.896px #00000055, 0 -2px 1px #fff;
   letter-spacing: -4px;
 }
 @font-face {
